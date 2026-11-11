@@ -4,7 +4,7 @@
 const CONFIG = {
   // Link CSV da Planilha Google (Arquivo > Compartilhar > Publicar na Web > CSV).
   // Deixe vazio ("") para usar o arquivo conteudo.csv que está junto do site.
-  planilhaCSV: "",
+  planilhaCSV: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQOKUYLL1sM7uEWdEytebb46zvwuD_spNeT7KoOEECQsgrTYV1iLVDnWAYrd2lPpeihzD_SVazVkA0w/pub?output=csv",
 
   // Link público do site (usado no QR Code). Se vazio, usa o endereço atual.
   linkPublico: "https://odontobot-up.netlify.app",
