@@ -7,7 +7,7 @@ const CONFIG = {
   planilhaCSV: "",
 
   // Link público do site (usado no QR Code). Se vazio, usa o endereço atual.
-  linkPublico: "https://odontobot.netlify.app",
+  linkPublico: "https://odontobot-up.netlify.app",
 
   mensagemBoasVindas:
     "Olá! 😊 Eu sou o **OdontoBot**, seu assistente virtual odontológico.\nEscolha uma das opções abaixo ou digite sua pergunta.",
